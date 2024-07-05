@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 
 --> 
 
-- 🌱 I’m currently learning Python and React
+- 🌱 I’m currently learning <b>Python</b> and <b>React</b>
 - 😄 Pronouns: He/Him
-- 💬 Ask me about linguistics, volleyball, Data Analysis, web development
-- ⚡ Fun fact: I sew my own clothes
+- 💬 Ask me about <b>linguistics</b>, </b>volleyball</b>, <b>Data Analysis</b>, <b>web development</b>
+- ⚡ Fun fact: I <b>sew</b> my own clothes
+
+- 🔭 I’m currently working on <b>setting up my own development enviroment on GitHub</b>
+
 
