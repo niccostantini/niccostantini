@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 --> 
 
-- 🌱 I’m currently learning <b>Python</b> and <b>React</b>
+- 🌱 I’m currently learning <b>JavaScript</b> and <b>HTML</b> and <b>CSS</b>
 - 😄 Pronouns: He/Him
 - 💬 Ask me about <b>linguistics</b>, </b>volleyball</b>, <b>Data Analysis</b>, <b>web development</b>
 - ⚡ Fun fact: I <b>sew</b> my own clothes
