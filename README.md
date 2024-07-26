@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about <b>linguistics</b>, </b>volleyball</b>, <b>Data Analysis</b>, <b>web development</b>
 - ⚡ Fun fact: I <b>sew</b> my own clothes
 
-- 🔭 I’m currently working on <b>lay the fundamental skills for front-end developemnt</b>
+- 🔭 I’m currently working on <b>laying the fundamental skills for front-end developemnt</b>
 
 
