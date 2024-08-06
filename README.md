@@ -46,5 +46,5 @@ NODE.JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icon
 
 <b>Currently</b> studying the [Full Stack Javascript](https://www.theodinproject.com/paths/full-stack-javascript) curriculum, and produced:
 
- - <a href="https://niccostantini.github.io/odin-signup-form/">A very camp signup form</a> 📋
+ - A very camp responsive design for this <a href="https://niccostantini.github.io/odin-signup-form/">signup form</a> 📋
 
