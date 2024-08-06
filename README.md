@@ -10,7 +10,7 @@
 
 <div align="center">
  <p><img align=left src="https://github-readme-stats.vercel.app/api/top-langs?username=niccostantini&show_icons=true&locale=en" alt="niccostantini" /></p>
- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=niccostantini&show_icons=true&locale=en" alt="niccostantini" /></p>
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=niccostantini&show_icons=true&locale=en&hide=stars" alt="niccostantini" /></p>
 </div>
 <br><br><br><br><br><br><br><br><br>
 
