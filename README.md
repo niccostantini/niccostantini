@@ -6,9 +6,11 @@
  <li> 🔭 I’m currently working on <b>laying the fundamental skills for front-end developemnt</b>.</li>
 </ul>
 
+<h3>Overview</h3>
+
 <div align="center">
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=niccostantini&show_icons=true&locale=en&layout=compact" alt="niccostantini" /></p>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=niccostantini&show_icons=true&locale=en" alt="niccostantini" /></p>
+ <p><img align=left src="https://github-readme-stats.vercel.app/api/top-langs?username=niccostantini&show_icons=true&locale=en" alt="niccostantini" /></p>
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=niccostantini&show_icons=true&locale=en" alt="niccostantini" /></p>
 </div>
 
 
@@ -24,7 +26,6 @@
  <a href="ubuntu.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"></a>
   <a href="https://www.apple.com/it/macos/sonoma/" target="_blank" rel="noreferrer"><img src="https://github.com/niccostantini/niccostantini/blob/main/mac-mini_644414.png" alt="macos" width="40" height="40"></a>
 </p>
-
 <h3 >My machines</h3>
 <p align=center>
 
@@ -41,6 +42,7 @@ NODE.JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icon
 
  -->
 
+<br>
 
 <h3>Courses and portfolio</h3>
 
