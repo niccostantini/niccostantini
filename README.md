@@ -59,5 +59,5 @@ NODE.JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icon
 
 <h3> Credits </h3>
 
-MacMini icon: Freepik
-Laptop icon: Yliv
+MacMini icon: [Freepik](https://www.freepik.com/) <br>
+Laptop icon: [Yliv](https://www.freepik.com/author/yliv)
