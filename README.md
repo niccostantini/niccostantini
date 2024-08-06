@@ -22,7 +22,14 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
  <a href="ubuntu.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"></a>
-  <a href="https://www.apple.com/it/macos/sonoma/ubuntu" target="_blank" rel="noreferrer"><img src="https://github.com/niccostantini/niccostantini/blob/main/mac-mini_644414.png" alt="macos" width="40" height="40"></a>
+  <a href="https://www.apple.com/it/macos/sonoma/" target="_blank" rel="noreferrer"><img src="https://github.com/niccostantini/niccostantini/blob/main/mac-mini_644414.png" alt="macos" width="40" height="40"></a>
+</p>
+
+<p align= center><h3 align=center>My machines</h3>
+
+&nbsp; &nbsp;<img src="https://github.com/niccostantini/niccostantini/blob/main/form_12780984.png" style="vertical-align:middle" height=30 width=30>&nbsp;&nbsp;**MacBook Pro M3 (2023)** – Sonoma 14.5<br>
+&nbsp; &nbsp;<img src="https://github.com/niccostantini/niccostantini/blob/main/form_12780984.png" style="vertical-align:middle" height=30 width=30>&nbsp;&nbsp;**MacBook Unibody (mid 2010)** - Ubuntu 22.04
+
 </p>
 
 
@@ -48,3 +55,8 @@ NODE.JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icon
 
  - A very camp responsive design for this <a href="https://niccostantini.github.io/odin-signup-form/">signup form</a> 📋
 
+
+<h3> Credits </h3>
+
+MacMini icon: Freepik
+Laptop icon: Yliv
