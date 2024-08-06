@@ -25,10 +25,11 @@
   <a href="https://www.apple.com/it/macos/sonoma/" target="_blank" rel="noreferrer"><img src="https://github.com/niccostantini/niccostantini/blob/main/mac-mini_644414.png" alt="macos" width="40" height="40"></a>
 </p>
 
-<p align= center><h3 align=center>My machines</h3>
+<h3 >My machines</h3>
+<p align=center>
 
-&nbsp; &nbsp;<img src="https://github.com/niccostantini/niccostantini/blob/main/form_12780984.png" style="vertical-align:middle" height=30 width=30>&nbsp;&nbsp;**MacBook Pro M3 (2023)** – Sonoma 14.5<br>
-&nbsp; &nbsp;<img src="https://github.com/niccostantini/niccostantini/blob/main/form_12780984.png" style="vertical-align:middle" height=30 width=30>&nbsp;&nbsp;**MacBook Unibody (mid 2010)** - Ubuntu 22.04
+&nbsp; &nbsp;<img align=center src="https://github.com/niccostantini/niccostantini/blob/main/form_12780984.png" style="vertical-align:middle" height=30 width=30>&nbsp;&nbsp;**MacBook Pro M3 (2023)** – Sonoma 14.5<br>
+&nbsp; &nbsp;<img align=center src="https://github.com/niccostantini/niccostantini/blob/main/form_12780984.png" style="vertical-align:middle" height=30 width=30>&nbsp;&nbsp;**MacBook Unibody (mid 2010)** - Ubuntu 22.04
 
 </p>
 
