@@ -65,7 +65,8 @@ NODE.JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icon
  - <a href="https://niccostantini.github.io/odin-library/">A library</a> 📚
  - A game of <a href="https://niccostantini.github.io/tic-tac-toe/">Tic-Tac-Toe</a> ❌⭕️
  - A [project and task organiser](https://niccostantini.github.io/odin-to-do) 🗓️✅
- - A script for a [minimalistic carousel](https://niccostantini.github.io/odin-carousel) 🎆🌆🌃 – **also available as an [npm package](https://www.npmjs.com/package/niccost-carousel)**
+ - A script for a [minimalistic carousel](https://niccostantini.github.io/odin-carousel) 🎆🌆🌃 – **also available as an [npm package](https://www.npmjs.com/package/autoscroll-carousel)**
+ - A [weather forecast webapp](https://niccostantini.github.io/odin-weater-forecast) ☀️🌦️ (which includes a typo in the URL I could not be bothered to change, yes!)
 
 <div align=right>
 <h3> Credits </h3>
